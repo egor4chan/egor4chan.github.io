@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #30a7ff;
+    background-color: #1e81cc; /*#30a7ff*/
     font-family: 'Inter';
 }
 
@@ -18,7 +18,7 @@ div#shadow {
     right: 11%;
     top: 40%;
     user-select: none;
-    box-shadow: 0px 0px 140px rgb(0, 0, 0);
+    box-shadow: 0px 0px 140px rgb(255, 255, 255);
     border-radius: 50%;
 }
 
@@ -36,7 +36,7 @@ p {
 }
 
 div.manager {
-    background-color: #8ccefe;
+    background-color: #74b6e6; /*#8ccefe;*/
     width: 90%;
     height: 9%;
     position: absolute;
@@ -46,14 +46,14 @@ div.manager {
 }
 
 div.ton > img {
-    height: 320px;
+    height: 300px;
     width: 300px;
 
     position: absolute;
 
     left: 11%;
     right: 11%;
-    top: 30%;
+    top: 33%;
     user-select: none;
 }
 
